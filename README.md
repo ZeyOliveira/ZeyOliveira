@@ -26,5 +26,5 @@ Atualmente estudando Ciência de Dados, pretendo me tornar um especialista, tamb
 ##
 
 ### Algumas publicações que você pode se interessar:
-- Em andamento...
+- <a href="https://github.com/ZeyOliveira/HousePrices/tree/main">Projeto do Kaggle: Versão 1</a>
   
