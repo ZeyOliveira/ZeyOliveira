@@ -17,7 +17,7 @@ Atualmente estudando Ciência de Dados, pretendo me tornar um especialista, tamb
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;
 </a>
 <a href="https://www.instagram.com/zeygleroliveira/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>&nbsp;&nbsp;
 </a>
 <a href="https://medium.com/@zeyglerdasilva">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
