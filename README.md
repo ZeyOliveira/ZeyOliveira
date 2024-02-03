@@ -1,9 +1,7 @@
-### Aqui é o Zey, tudo bem ? <br>
-Atualmente estudando Ciência de Dados, pretendo me tornar um especialista, também sou estudando de Engenharia de Software. <br>
+### Aqui é o Zeygler Oliveira, conhecido também como Zey.<br>
+Atualmente me especializando em Ciência de Dados. <br>
 
 - 👨🏽‍🎓 Estudando Ciência de Dados na <a href='https://www.hashtagtreinamentos.com/'>HashTag Treinamentos</a>
-- 🖋️ Estudando Engenharia de Software na <a href='https://inscricoes.unicesumar.edu.br/'>Unicesumar</a>
-- 🥊 🏋️‍♂️ Gosto de artes marciais e Exercícios.
 - 🖥️ Na atualidade mais focado em:
 
 <div display="inline">
@@ -22,9 +20,3 @@ Atualmente estudando Ciência de Dados, pretendo me tornar um especialista, tamb
 <a href="https://medium.com/@zeyglerdasilva">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
-
-##
-
-### Algumas publicações que você pode se interessar:
-- <a href="https://github.com/ZeyOliveira/HousePrices/tree/main">Projeto do Kaggle: Versão 1</a>
-  
