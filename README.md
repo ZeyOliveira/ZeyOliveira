@@ -1,30 +1,14 @@
-### Aqui é o Zeygler Oliveira, conhecido também como Zey.<br>
-Atualmente me especializando em Ciência de Dados. <br>
+# Olá, aqui é o Zeygler Oliveira, conhecido também como Zey! :wave:<br>
 
-- 👨🏽‍🎓 Estudando Ciência de Dados na <a href='https://www.hashtagtreinamentos.com/'>HashTag Treinamentos</a>
-- 🖥️ Na atualidade mais focado em:
+Sou um Cientista de Dados com conhecimento em: Python, SQL, Power BI, Estatística(voltado para Análise de dados), Pandas, Numpy, Scikit-Learn e Matplotlib.<br>
+<br>
+Eu sou apaixonado pela ánalise de dados e por explorar padrões que não podem ser vistos com apenas uma observação
 
-<div display="inline">
-&nbsp;&nbsp;&nbsp;&nbsp;<img width='50' height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+##
+
+#### Pode me encontrar em:
+
+<div style="display: inline-block"> 
+  <a href="https://www.linkedin.com/in/zeygler-oliveira-a021a92a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@zeyglerdasilva" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
 </div>
-
-##
-
-### Pode me encontrar em:
-<a href="https://www.linkedin.com/in/zeygler-oliveira-a021a92a4/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;
-</a>
-<a href="https://www.instagram.com/zeygleroliveira/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>&nbsp;&nbsp;
-</a>
-<a href="https://medium.com/@zeyglerdasilva">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-##
-
-### Conhecimentos nessas ferramentas:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
