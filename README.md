@@ -1,6 +1,6 @@
 # Olá, aqui é o Zeygler Oliveira, conhecido também como Zey! :wave:<br>
 
-Sou um Cientista de Dados com conhecimento em: Python, SQL, Power BI, Estatística(voltado para Análise de dados), Pandas, Numpy, Scikit-Learn e Matplotlib.<br>
+Sou um Cientista de Dados com conhecimento em: MLOps, CI/CD, Ferramentar de Rastreamento de Experimentos, Conteinerização, Deployment, Python, SQL, Power BI, Estatística(voltado para Análise de dados), Pandas, Numpy, Scikit-Learn e Matplotlib.<br>
 <br>
 Eu sou apaixonado pela ánalise de dados e por explorar padrões e tendencias que não podem ser vistos com apenas uma observação simples. O que mais me atrai nessa área, é que com os dados é possível aprender sobre a vida, diferentes negócios, sobre as pessoas e como tudo isso se relaciona.
 
